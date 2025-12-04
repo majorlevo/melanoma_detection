@@ -179,4 +179,3 @@ melanoma_cancer_dataset/
 data/*
 data/ham10000/*
 *.csv
-*.pth
